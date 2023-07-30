@@ -29,9 +29,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/yogitabhargava6" target="blank"><img src="[https://img.shields.io/twitter/follow/https://twitter.com/yogitabhargava6?logo=twitter&style=for-the-badge]" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker Web Application](https://spendwiz.netlify.app/)
+- 🔭 My recent project [Expense Tracker Web Application](https://spendwiz.netlify.app/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently exploring **Java**
 
 - 👯 I’m looking to collaborate on [Technote Notes uploading website](https://github.com/yogitabhargava02/PBL_TECHNOTE)
 
