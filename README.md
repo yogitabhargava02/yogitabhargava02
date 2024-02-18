@@ -31,7 +31,7 @@
 
 - 🔭 My recent project [Expense Tracker Web Application](https://spendwiz.netlify.app/)
 
-- 🌱 I’m currently exploring **Java**
+
 
 - 👯 I’m looking to collaborate on [Technote Notes uploading website](https://github.com/yogitabhargava02/PBL_TECHNOTE)
 
