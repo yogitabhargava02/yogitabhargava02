@@ -19,7 +19,6 @@ Always learning, always building. 🚀
 - 💼 **Current Role:** Software Engineer @ *Indira Securities Pvt. Ltd., Indore*  
 - 🧩 **Tech Stack:** Node.js, React, Redux Toolkit, TypeScript, Express.js, MySQL  
 - 💳 Worked with: **Payment Integration (ATOM)**, File systems, Authentication, API design  
-- 🔭 Recently Built: [Expense Tracker Web App](https://spendwiz.netlify.app/)  
 - 👯 Open to collaborate on full-stack & backend projects  
 - 📫 Reach me at: **yogitabhargava1@gmail.com**
 
@@ -73,18 +72,6 @@ Always learning, always building. 🚀
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
-
----
-
-## 📌 **Highlighted Projects**
-- 🧾 **Expense Tracker (SpendWiz)** – React + Local Storage + Chart UI  
-  🔗 https://spendwiz.netlify.app/
-
-- 📚 **Technote (Notes Upload Platform)**  
-  🔗 https://github.com/yogitabhargava02/PBL_TECHNOTE
-
-- 🛒 **FlipShop (E-commerce Demo)**  
-  🔗 https://github.com/yogitabhargava02/FlipShop
 
 ---
 
