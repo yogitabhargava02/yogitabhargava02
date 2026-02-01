@@ -76,7 +76,8 @@ A hyperlocal system connecting customers with nearby milkmen.
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitabhargava02&show_icons=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitabhargava02" height="150" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogitabhargava02&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogitabhargava02&theme=default)
+
