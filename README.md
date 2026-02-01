@@ -1,73 +1,60 @@
 <h1 align="center">Hi 👋, I'm Yogita Bhargava</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Node.js • React • TypeScript</h3>
-
----
-
-<h4 align="center">
-I am a passionate Full Stack Developer currently working as a <strong>Software Engineer at Indira Securities Private Limited, Indore</strong>.  
-I specialize in building scalable backend systems, modern web applications, and seamless integrations.  
-Always learning, always building. 🚀
-</h4>
+<h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogitabhargava02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+Node.js • NestJS • TypeScript • React • PostgreSQL
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogitabhargava02&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 💼 **Current Role:** Software Engineer @ *Indira Securities Pvt. Ltd., Indore*  
-- 🧩 **Tech Stack:** Node.js, React, Redux Toolkit, TypeScript, Express.js, MySQL  
-- 💳 Worked with: **Payment Integration (ATOM)**, File systems, Authentication, API design  
-- 👯 Open to collaborate on full-stack & backend projects  
-- 📫 Reach me at: **yogitabhargava1@gmail.com**
+## 👩‍💻 About Me
+- Software Engineer at <strong>Indira Securities Pvt. Ltd., Indore</strong>
+- Focused on <strong>scalable backend systems</strong> and <strong>clean architecture</strong>
+- Experience with <strong>authentication, payments (ATOM), API design</strong>
+- Actively building <strong>production-grade personal projects</strong>
+
+📫 <strong>Email:</strong> yogitabhargava1@gmail.com  
+🔗 <strong>LinkedIn:</strong> https://linkedin.com/in/yogitabhargava1  
 
 ---
 
-## 🌐 **Connect With Me**
-<p align="center">
-  <a href="https://linkedin.com/in/yogitabhargava1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yogitabhargava6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/yogitabhargava1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/yogitabhargava1/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-  </a>
-</p>
+## 🛠 Skills
 
----
-
-## 🛠️ **Tech Stack & Skills**
-
-### **Languages**
+### Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
 </p>
 
-### **Frontend**
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+</p>
+
+### Databases & ORM
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+</p>
+
+### Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
 </p>
 
-### **Backend**
+### Tools & DevOps
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-</p>
-
-### **Tools**
-<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
@@ -75,11 +62,21 @@ Always learning, always building. 🚀
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitabhargava02&show_icons=true&locale=en" />
-</p>
+## Featured Project
+<strong>Milk Delivery Platform (Backend-First)</strong>  
+A hyperlocal system connecting customers with nearby milkmen.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitabhargava02" />
+- Modular NestJS architecture
+- JWT-based authentication
+- Prisma + PostgreSQL
+- Subscription & delivery workflows (in progress)
+
+📌 <em>Pinned on profile</em>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogitabhargava02&show_icons=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitabhargava02" height="150" />
 </p>
